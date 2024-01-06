@@ -16,9 +16,9 @@ Also Identified key features affecting the customer's decision to book tickets.
 Compiled the insights into a Powerpoint Presentation
 
 ## Technikogy Used
-Python
-NLTK
-BeautifulSoup
-XGBoost
-Random Forest Classifier
+Python,
+NLTK,
+BeautifulSoup,
+XGBoost,
+Random Forest Classifier,
 Scikit-Learn
