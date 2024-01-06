@@ -22,3 +22,6 @@ BeautifulSoup,
 XGBoost,
 Random Forest Classifier,
 Scikit-Learn
+
+## Certificate
+https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_TqEzuGFdic6hxynZY_1704506616192_completion_certificate.pdf
