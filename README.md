@@ -15,7 +15,7 @@ Created a Classification model to predict customer bookings.
 Also Identified key features affecting the customer's decision to book tickets.
 Compiled the insights into a Powerpoint Presentation
 
-## Technikogy Used
+## Technology Used
 Python,
 NLTK,
 BeautifulSoup,
